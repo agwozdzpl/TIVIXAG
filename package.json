@@ -1,0 +1,15 @@
+{
+  "name": "tivix-e2e-ag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:run": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "agwozdz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.1"
+  }
+}
